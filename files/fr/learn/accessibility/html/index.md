@@ -12,12 +12,9 @@ Une grande partie des contenus web peut être rendue accessible simplement en s'
     <tr>
       <th scope="row">Prérequis :</th>
       <td>
-        Compétences informatiques de base, compréhension basique de HTML (voir<a
-          href="/fr/Apprendre/HTML/Introduction_à_HTML"
-          > </a
-        ><a href="/fr/docs/Learn/HTML/Introduction_to_HTML">I</a
-        ><a href="/fr/Apprendre/HTML/Introduction_à_HTML">ntroduction à HTML</a
-        >), et compréhension de
+        Compétences informatiques de base, compréhension basique de HTML (voir
+        <a href="/fr/docs/Learn/HTML/Introduction_to_HTML">Introduction à HTML</a
+        >, et compréhension de
         <a href="/fr/docs/Apprendre/a11y/What_is_accessibility"
           >Qu'est ce que l'accessibilité ?</a
         >
