@@ -13,7 +13,7 @@ Cet article vous initie aux tableaux en HTML. Il porte sur les bases comme les r
       <th scope="row">Prérequis :</th>
       <td>
         Les bases de HTML (voir
-        <a href="/fr/Apprendre/HTML/Introduction_à_HTML"
+        <a href="/fr/docs/Learn/HTML/Introduction_to_HTML"
           >Introduction au HTML</a
         >).
       </td>
