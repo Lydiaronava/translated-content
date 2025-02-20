@@ -26,7 +26,7 @@ Cet article présente un module général sur ce que l'accessibilité est actuel
   </tbody>
 </table>
 
-## Qu'est-ce donc que l'accessibilité?
+## Qu'est-ce donc que l'accessibilité ?
 
 L'accessibilité est la mise à disposition de vos sites web au plus grand nombre. On pense souvent que cela s'adresse aux personnes ayant un handicap, mais cela concerne également d'autres groupes comme ceux utilisant des appareils mobiles ou ceux qui ont des connexions internet de faible débit.
 
@@ -80,7 +80,7 @@ En général, cela se traduit au niveau du développement web par la nécessité
 
 De nombreuses personnes souffrent de troubles de la mobilité. Par exemple, en France, 4% des personnes vivant en ménage ordinaire déclarent avoir des difficultés à se servir des mains et doigts, d'après la vue d'ensemble [L'approche du handicap par les limitations fonctionnelles et la restriction globale d'activité chez les adultes de 20 à 59 ans](https://www.insee.fr/fr/statistiques/1372411?sommaire=1372421) de l'INSEE.
 
-### Personnes ayant des déficiences cognitives
+### Personnes ayant des troubles cognitifs
 
 La dernière catégorie d'incapacités est probablement la plus large. Les déficiences cognitives désignent généralement des incapacités allant des maladies mentales aux difficultés d'apprentissage, aux difficultés de compréhension et de concentration telles que [TDAH-trouble d'hyperactivité avec déficit de l'attention](https://naitreetgrandir.com/fr/mauxenfants/indexmaladiesa_z/fiche.aspx?doc=naitre-grandir-sante-enfant-trouble-deficit-attention-hyperactivite-tdah), [TSA-trouble du spectre de l'autisme](https://cenop.ca/troubles-comportement/tsa-trouble-spectre-autisme.php), aux personnes atteintes de [schizophrénie](http://www.psycom.org/Espace-Presse/Sante-mentale-de-A-a-Z/Schizophrenie-s), et à de nombreux autres types de désordres, qui peuvent affecter de nombreux aspects de la vie quotidienne en raison de problèmes de mémoire, de résolution de problèmes, de compréhension, d'attention, etc.
 
